@@ -43,7 +43,7 @@ This Power BI dashboard analyzes order fulfillment efficiency and its impact on 
 - Line Chart - Total Sales and Profit By Month, Year
 - Bar Chart: Profitability by Customer Segment
 - Stacked Column Chart: Shipping Mode vs Late Delivery Risk
-- Heatmap: Late Delivery by Region and Delivery Status
+- Matrix: Late Delivery by Region and Delivery Status
 - Matrix: Profit Margin Distribution
 - Drillthrough Pages: Product and Customer Analytics
 
